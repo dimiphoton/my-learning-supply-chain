@@ -1,0 +1,11 @@
+supplier_id,supplier_name,location,annual_spend,quality_score,delivery_performance,lead_time_avg,num_products
+SUP_001,TechSupply Corp,China,702364.53,7.7,88.9,13.2,13
+SUP_002,Global Manufacturing,Germany,1672854.98,8.6,79.9,18.2,8
+SUP_003,Premier Components,USA,918187.58,9.4,93.0,21.6,13
+SUP_004,Reliable Parts Inc,Japan,112232.79,5.3,96.4,16.8,8
+SUP_005,Quality Materials Ltd,South Korea,403108.04,8.4,97.9,12.5,6
+SUP_006,Swift Logistics,Taiwan,770388.44,7.6,92.0,21.3,9
+SUP_007,Industrial Solutions,Mexico,717388.22,8.6,91.2,29.0,9
+SUP_008,Advanced Systems,Canada,436109.69,8.4,90.8,11.1,9
+SUP_009,Precision Works,Singapore,442383.37,8.1,94.9,16.5,11
+SUP_010,Universal Supplies,India,1653143.57,9.2,84.8,14.6,14
